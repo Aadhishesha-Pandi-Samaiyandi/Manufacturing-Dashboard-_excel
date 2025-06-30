@@ -1,6 +1,6 @@
 # Manufacturing-Dashboard-_excel
 Manufacturing Dashboard _excel
-![image](https://github.com/user-attachments/assets/1c54a315-067f-4cf5-9539-5c812d9ea3a8)
+![image](https://github.com/user-attachments/assets/6f61c12a-4d43-49a3-b630-8beac474e8ff)
 ## 💡 How to Use
 1. Open `Manufacturing Dashboard - Excel.xlsx`
 2. Use slicers (Week No., Machine Code, Form Type) to filter data
